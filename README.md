@@ -8,9 +8,9 @@ First-year Computer Science student specializing in analytics, business intellig
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-kumar-jha-72659435b/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princekumarjha@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/prince-kumar-jha-72659435b/](https://www.linkedin.com/in/prince-kumar-jha-72659435b/)) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pkjha2028@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://princebuilds.netlify.app/)
 
 ---
 
@@ -158,21 +158,3 @@ Learning through building. Growing through feedback. Committed to transforming i
 ---
 
 *Last Updated: January 2026*
-
----
-
-## Summary of Key Improvements
-
-- **Headline**: Sharpened from descriptive to value-driven ("Turning Data into Decisions" vs. generic skills list)
-- **Opening summary**: Strengthened positioning with "experienced in" framing and focus on measurable outcomes
-- **Project descriptions**: Rewrote for impact and clarity—led with outcomes, removed filler words, made accomplishments concrete
-- **Technical skills reorganization**: Consolidated redundant sections, removed "Arsenal" metaphor, grouped tools logically
-- **"What I'm Looking For" section**: Transformed into confident "Open to Opportunities" with professional tone and clear value proposition
-- **Philosophy refinement**: Condensed to single memorable quote followed by action-oriented statement
-- **Consistency improvements**: Standardized formatting, removed unnecessary emojis, improved scanability for recruiters
-
-## Alternate Headlines (Optional)
-
-**Option 1:** Data Analyst | Python & SQL | Building Analytics That Drive Business Decisions
-
-**Option 2:** Aspiring Data Analyst | Transforming Complex Data into Clear Business Insights
