@@ -6,10 +6,10 @@ First-year Computer Science student specializing in analytics, business intellig
 
 ---
 
-## 🌐 Connect
+# 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/prince-kumar-jha-72659435b/](https://www.linkedin.com/in/prince-kumar-jha-72659435b/)) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pkjha2028@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-jha-72659435b/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pkjha2028@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://princebuilds.netlify.app/)
 
 ---
