@@ -133,6 +133,103 @@ Interested in: analytics pipelines • predictive modeling • open-source contr
 </div>
 
 ---
+*Last Updated: March 2026*| [**social-media-engagement-analysis**](https://github.com/princekjha-dev/social-media-engagement-analysis) | Content performance metrics & engagement optimization via statistical analysis | `Python` `Pandas` `Statistical Analysis` |
+| [**student-placement-analytics**](https://github.com/princekjha-dev/student-placement-analytics) | Predictive placement models + hypothesis testing to identify success factors | `Python` `Scikit-learn` `Statistical Modeling` |
+
+### 🤖 Development & AI
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**Clipify**](https://github.com/princekjha-dev/Clipify) | ML-based automated video highlight extraction using scene detection & audio analysis | `Python` `OpenCV` `NLP` |
+| [**ChessMaster-AI**](https://github.com/princekjha-dev/ChessMaster-AI) | Chess game with minimax AI opponent & full game state management | `JavaScript` `Algorithms` |
+| [**PixAura**](https://github.com/princekjha-dev/PixAura) | Hand-controlled 3D visualization system using real-time gesture recognition | `MediaPipe` `Three.js` `CV` |
+| [**ImpactHub**](https://github.com/princekjha-dev/ImpactHub) | Fully responsive website with modern UI/UX & mobile-first design | `HTML5` `CSS3` `JavaScript` |
+
+---
+
+## 🛠️ Tech Stack
+
+### Data & Analytics
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+
+### Tools & Platforms
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Dev & AI
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=princekjha-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=princekjha-dev&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=princekjha-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=princekjha-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 🔭 End-to-end analytics workflows with Python, SQL & visualization tools
+- 🧠 Predictive models for customer behavior & business forecasting
+- 📊 Interactive dashboards for stakeholder decision-making
+- 🌱 Data engineering fundamentals & production ML pipelines
+- 🤝 Open-source contributions in data science & analytics
+
+---
+
+## 💼 Open to Opportunities
+
+Looking for **Data Analyst** or **Business Analyst internships** where I can apply analytical skills to real business problems.
+
+Interested in: analytics pipelines • predictive modeling • open-source contributions • freelance analytics consulting
+
+---
+
+<div align="center">
+
+> *"Data tells stories, but only when you ask the right questions.*
+> *My work is about finding those questions and turning the answers into action."*
+
+**⭐ Star my repos if you find them useful — open to collaboration & feedback!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3A9F,100:1A56DB&height=100&section=footer" alt="footer"/>
+
+</div>
+
+---
 *Last Updated: March 2026*- Building predictive models for customer behavior and business forecasting
 - Creating interactive dashboards for stakeholder decision-making
 - Learning data engineering fundamentals and production ML pipelines
