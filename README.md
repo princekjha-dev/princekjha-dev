@@ -2,7 +2,7 @@
 
 # Prince Kumar Jha
 
-**Data Analyst · Python & SQL · Delhi NCR**
+**AI Developer · Python · Automation · Delhi NCR**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-jha-72659435b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=flat-square&logo=About.me&logoColor=white)](https://princebuilds.netlify.app/)
@@ -13,27 +13,42 @@
 
 ---
 
-First-year CS student building end-to-end analytics workflows, statistical models, and dashboards that drive real business decisions. I believe data tells stories — my job is asking the right questions to find them.
+B.Tech CSE student building practical AI products for video, documents, and chat workflows. I focus on automation-first systems that are useful in real-world scenarios.
 
-Currently learning: ETL pipelines · time series forecasting · cloud analytics (AWS/GCP)
+Currently learning: agentic workflows · production FastAPI patterns · evaluation and guardrails for LLM apps
 
-Open to **Data Analyst / Business Analyst internships** in Delhi NCR.
+Open to **AI/ML, Python Backend, and Automation internships** in Delhi NCR.
 
 ---
 
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+---
+
+## Featured Projects
+
+- **Clipify - AI-Powered Viral Clip Generator**  
+  Extracts viral moments from long videos, scores highlights, and generates social-ready clips in multiple formats with optional captions.  
+  [Repository](https://github.com/princekjha-dev/Clipify)
+
+- **AI Assistant Telegram Bot**  
+  Multi-model Telegram assistant with personality modes, mood-aware responses, image generation, persistent memory, and gamification.  
+  [Repository](https://github.com/princekjha-dev/AI-Assistant-Telegram-Bot)
+
+- **Intellidoc - AI Document Intelligence System**  
+  Telegram + web platform for document analysis, grounded Q&A, comparison, translation, and generation with anti-hallucination safeguards.  
+  [Repository](https://github.com/princekjha-dev/Al-Powered-Office-Document-Automation-System)
 
 ---
 
@@ -53,6 +68,6 @@ Open to **Data Analyst / Business Analyst internships** in Delhi NCR.
 
 <div align="center">
 
-*"Data tells stories, but only when you ask the right questions."*
+*"Build tools that people actually use."*
 
 </div>
