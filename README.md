@@ -70,9 +70,6 @@ Open to **backend, AI/ML, and Python internships** in Delhi NCR or remote.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princekjha-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princekjha-dev&theme=tokyonight&hide_border=true&layout=compact)
-
 </div>
 
 ---
