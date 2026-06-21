@@ -63,71 +63,12 @@ Open to **backend, AI/ML, and Python internships** in Delhi NCR or remote.
 
 ---
 
-### Featured Projects
+### Experience & Achievements
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Clipify](https://github.com/princekjha-dev/Clipify)** &nbsp; [![Live](https://img.shields.io/badge/Live-clipifyy.netlify.app-0f3460?style=flat-square)](https://clipifyy.netlify.app)
-
-AI-powered CLI tool that takes a YouTube URL or local video and outputs ranked short-form clips ready for TikTok, Reels, and Shorts.
-
-- Word-level transcription via **faster-whisper**
-- 5-signal clip ranking: hook, energy, sentiment, keywords, silence
-- FFmpeg stream-copy export — no re-encoding overhead
-- **13-provider AI backend** (Groq, OpenAI, Claude, Gemini, Mistral, Cohere +) with automatic failover
-- Published as **v1.0.1** on PyPI · 20 GitHub stars
-
-`Python` `FFmpeg` `faster-whisper` `yt-dlp` `OpenAI` `Groq`
-
-</td>
-<td width="50%" valign="top">
-
-**[IntelliDoc](https://github.com/princekjha-dev/Al-Powered-Office-Document-Automation-System)** &nbsp; [![Live](https://img.shields.io/badge/Live-intellidoc.netlify.app-0f3460?style=flat-square)](https://intellidoc.netlify.app)
-
-Document Q&A and analysis tool. Upload a PDF, DOCX, or XLSX — ask questions, get source-grounded answers in 2–5s, compare docs side-by-side.
-
-- RAG pipeline using **OpenRouter + Groq**
-- 5-dimension quality scoring per document
-- Available as web dashboard, Telegram bot, and CLI
-- Telegram bot: circuit-breaker, retry, rate limiting, `asyncio.gather()`
-
-`Python` `Flask` `asyncio` `OpenRouter` `Groq` `Hugging Face` `Telegram`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[RepoChat](https://github.com/princekjha-dev/RepoChat)**
-
-Full-stack RAG app for natural language querying over public GitHub repositories — no local clone needed.
-
-- AST-based chunking for code-aware document splitting
-- **ChromaDB** vector store with Sentence Transformers semantic embeddings
-- Flask REST API backend + React/Tailwind frontend
-- Enables dev teams to ask questions directly over any public codebase
-
-`Python` `Flask` `ChromaDB` `Sentence Transformers` `React` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-**[Placement Analysis](https://github.com/princekjha-dev/placement-analysis)**
-
-ML analysis of engineering student placement patterns using a 5,000-record synthetic dataset.
-
-- Logistic regression to predict placement probability
-- Key finding: internships = strongest predictor; CGPA < 7.0 = barrier
-- 3-script pipeline → auto PDF report via **FPDF**
-- Also packaged as a Jupyter notebook
-
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `FPDF`
-
-</td>
-</tr>
-</table>
+- 🏢 **Cogito Tech** — Data Annotation Specialist *(May–Aug 2025, pre-enrollment)* · Labeled 10,000+ images for CV pipelines, 95%+ QA accuracy
+- 🏆 **Smart India Hackathon** — Round 2 Shortlisted · EdTech government problem statement
+- ⚡ **Hack the Beginning** — Sole developer on team · Built and demoed a working prototype in 24 hours
+- 🚀 **Clipify v1.0.1** — Published on PyPI and GitHub · 20 stars, zero marketing
 
 ---
 
@@ -142,15 +83,6 @@ ML analysis of engineering student placement patterns using a 5,000-record synth
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princekjha-dev&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
-
----
-
-### Experience & Achievements
-
-- 🏢 **Cogito Tech** — Data Annotation Specialist *(May–Aug 2025, pre-enrollment)* · Labeled 10,000+ images for CV pipelines, 95%+ QA accuracy
-- 🏆 **Smart India Hackathon** — Round 2 Shortlisted · EdTech government problem statement
-- ⚡ **Hack the Beginning** — Sole developer on team · Built and demoed a working prototype in 24 hours
-- 🚀 **Clipify v1.0.1** — Published on PyPI and GitHub · 20 stars, zero marketing
 
 ---
 
