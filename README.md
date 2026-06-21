@@ -61,16 +61,7 @@ Open to **backend, AI/ML, and Python internships** in Delhi NCR or remote.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
 
-### Experience & Achievements
-
-- 🏢 **Cogito Tech** — Data Annotation Specialist *(May–Aug 2025, pre-enrollment)* · Labeled 10,000+ images for CV pipelines, 95%+ QA accuracy
-- 🏆 **Smart India Hackathon** — Round 2 Shortlisted · EdTech government problem statement
-- ⚡ **Hack the Beginning** — Sole developer on team · Built and demoed a working prototype in 24 hours
-- 🚀 **Clipify v1.0.1** — Published on PyPI and GitHub · 20 stars, zero marketing
-
----
 
 ### GitHub Stats
 
