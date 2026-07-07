@@ -15,7 +15,7 @@
 
 ### About
 
-B.Tech CSE student at ITS Engineering College, Greater Noida (2025–Present).
+
 
 I build backend tools and AI pipelines — things that actually run, not just demo. Before starting college I worked as a Data Annotation Specialist at Cogito Tech, labeling 10,000+ images for CV pipelines. Since then I've shipped open-source tools, built full-stack RAG apps, and learned how async systems, vector retrieval, and multi-provider LLM backends work in practice.
 
